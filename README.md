@@ -1,6 +1,7 @@
 # Landing Page Jekyll theme
 
 Jekyll theme based on [landing-page bootstrap theme ](http://startbootstrap.com/templates/landing-page/)
+Git repository of Landing Page Theme https://github.com/swcool/landing-page-theme
 
 ## How to use
  - Place a image in `/img/services/`
@@ -19,8 +20,14 @@ The description of this service
 ## Demo
 View this jekyll theme in action [here](https://swcool.github.io/landing-page-theme)
 
-## Screenshot
-![screenshot](https://raw.githubusercontent.com/swcool/landing-page-theme/master/img/screenshot.png)
+## Credits
+Intro graphic from https://unsplash.com/photos/pfR18JNEMv8
+
+A low exposure photograph of an unsoldered Printed Circuit Board (PCB) with ENIG (Gold) finish.
+
+Vishnu Mohanan
+@vishnumaiea
+Mysore, Karnataka, India
 
 ===
 
