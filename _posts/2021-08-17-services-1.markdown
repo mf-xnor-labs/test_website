@@ -1,0 +1,8 @@
+---
+layout: default
+img: coding_cropped.jpg
+category: Services
+title: Software Design
+description: |
+---
+We specialize in DSP implementation on DSPs.

@@ -22,12 +22,33 @@ View this jekyll theme in action [here](https://swcool.github.io/landing-page-th
 
 ## Credits
 Intro graphic from https://unsplash.com/photos/pfR18JNEMv8
+<br>
+<br>
+A low exposure photograph of an unsoldered Printed Circuit Board (PCB) with ENIG (Gold) finish.<br>
+<br>
+Vishnu Mohanan<br>
+@vishnumaiea<br>
+Mysore, Karnataka, India<br>
+<br><br>
 
-A low exposure photograph of an unsoldered Printed Circuit Board (PCB) with ENIG (Gold) finish.
+Software graphic from https://unsplash.com/photos/sCgQPQZAeO4
+<br>
+ThisisEngineering RAEng<br>
+@thisisengineering<br>
+<br><br>
 
-Vishnu Mohanan
-@vishnumaiea
-Mysore, Karnataka, India
+Schematic graphic from https://unsplash.com/photos/EUsVwEOsblE
+<br>
+Adi Goldstein<br>
+@adigold1<br>
+<br><br>
+
+<br>
+Contact Us graphic from https://unsplash.com/photos/vZJdYl5JVXY<br>
+<br>
+Kaitlyn Baker<br>
+@kaitlynbaker<br>
+<br><br>
 
 ===
 
