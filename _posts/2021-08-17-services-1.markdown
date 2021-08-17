@@ -5,4 +5,4 @@ category: Services
 title: Software Design
 description: |
 ---
-We specialize in DSP implementation on DSPs.
+We specialize in DSP implementation on FPGAs.
