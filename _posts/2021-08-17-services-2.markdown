@@ -5,4 +5,4 @@ category: Services
 title: Hardware Design
 description: |
 ---
-We have expertise in Schematic Design and PCB Layout.
+From prototypes to production boards, we offer schematic design and printed circuit board (PCB) layout along with testing and verification.

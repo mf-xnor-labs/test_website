@@ -2,7 +2,7 @@
 layout: default
 img: coding_cropped.jpg
 category: Services
-title: Software Design
+title: Embedded Firmware and Software Design
 description: |
 ---
-We specialize in DSP implementation on FPGAs.
+Need an Field Programmable Gate Array (FPGA) to perform Digital Signal Processing (DSP)? Need a microcontroller to manage a system for optimized low power consumption? We have you covered. We pride ourselves with our extensive experience with FPGAs and microcontrollers.
